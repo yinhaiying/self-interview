@@ -64,7 +64,11 @@
   display:none.把元素隐藏起来,会改变布局。可以理解成把元素删除掉了
   opacity:0.设置成透明，该元素被隐藏起来了，但是不会改变页面布局。并且该元素如果绑定了事件，事件会被触发
   visibility:hidden.将元素隐藏起来了,但是不会改变页面布局，也不会触发该元素绑定的事件
-
+十二.link和@import的区别
+  (1) link属于HTML标签，而@import是CSS提供的;
+  (2) 页面被加载的时，link会同时被加载，而@import引用的CSS会等到页面被加载完再加载;
+  (3) import只在IE5以上才能识别，而link是HTML标签，无兼容问题;
+  (4) link样式的权重高于@import的权重
 
 
 
