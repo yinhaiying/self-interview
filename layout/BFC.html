@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>BFC</title>
+    <style>
+    *{
+        margin:0;
+        padding:0;
+    }
+    .container{
+       overflow:hidden
+    }
+    .item{
+        border:1px solid #000;
+    }
+   .item:nth-child(1){
+       background:darkgoldenrod;
+       margin: 10px 0;
+   }
+   .newBFC .item{
+       background:deepskyblue;
+       margin: 10px 0;
+   }
+   .newBFC{
+       overflow:hidden;
+   }
+   .box{
+     border:2px solid green;
+     height:300px;
+     width:300px;
+     overflow:hidden;
+   }
+   .box p:nth-child(1){
+       width:100px;
+       border:1px solid red;
+       float:left;
+   }
+    .box p:nth-child(2){
+        overflow:hidden;
+    }
+        .root{
+
+        }
+        .app{
+            float:left;
+            width:33.333%;
+            border:1px solid red;
+        }
+        .app:nth-child(3){
+            overflow:hidden;
+        }
+
+    </style>
+</head>
+<body>
+  <div class="container">
+      <p class="item">1</p>
+      <div class="newBFC">
+          <p class="item">2</p>
+      </div>
+  </div>
+  <div class="box">
+    <p>浮动1</p>
+    <p>First let us understand why the text wraps. For this we
+        have to understand how the box model works when an element is floated.
+        This is the part I left earlier while
+        discussing the alignment in a block formatting context.
+    </p>
+  </div>
+  <div class="root">
+      <div class="app">1</div>
+      <div class="app">2</div>
+      <div class="app">3</div>
+
+
+  </div>
+</body>
+</html>

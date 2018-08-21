@@ -69,7 +69,14 @@
   (2) 页面被加载的时，link会同时被加载，而@import引用的CSS会等到页面被加载完再加载;
   (3) import只在IE5以上才能识别，而link是HTML标签，无兼容问题;
   (4) link样式的权重高于@import的权重
-
+十三.说一下本地存储
+  html5中的Web Storage包括了两种存储方式：sessionStorage(会话存储)和localStorage(本地持久存储)。
+  sessionStorage:
+  用于本地存储一个会话（session）中的数据，这些数据只有在同一个会话中的页面才能访问
+  并且当会话结束后数据也随之销毁。因此sessionStorage不是一种持久化的本地存储，仅仅是会话级别的存储。
+  localStorage:
+  用于持久化的本地存储，除非主动删除数据，否则数据是永远不会过期的
+十四.说一下cookie的缺点
 
 
 

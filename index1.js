@@ -232,3 +232,55 @@ let obj5 = {
 
 let obj6 = createObject(obj5)
 obj6.showName()  //hello
+
+/***
+ * 实现深拷贝的方法
+ */
+console.log('...........实现深拷贝的方法..............')
+// let _obj = {
+//   a:1,
+//   b:2,
+//   show:function(){console.log(1)}
+// }
+// let cloneObj1 = JSON.parse(JSON.stringify(_obj))
+// console.log(cloneObj1)
+// cloneObj1.a.name = 'haha';
+// console.log(cloneObj1.a.name)  //  haha
+// console.log(_obj.a.name)  // hello
+
+// function clone(iniObj,cloneObj){
+//   for(var attr in iniObj){
+//     cloneObj[attr] = iniObj[attr]
+//   }
+//   return cloneObj
+// }
+// let cloneObj1 = clone(_obj,{})
+// console.log(cloneObj1)
+// cloneObj1.a = 'haha';
+// console.log(cloneObj1.a)  //  haha
+// console.log(_obj.a)  // hello
+
+let _obj = {
+  a:{
+    name:'hello'
+  },
+  b:2,
+  show:function(){console.log(1)}
+}
+function deepClone(iniObj,finalObj){
+  for(var attr in iniObj){
+    //如果是一个对象，那么就需要将final设置为一个对象进行新的拷贝
+    if(typeof iniObj[attr] === 'object'){
+      finalObj[attr] = {}
+      arguments.callee(iniObj[attr], finalObj[attr]);
+    }else{
+      finalObj[attr] = iniObj[attr]
+    }
+  }
+  return finalObj
+}
+let cloneObj1 = deepClone(_obj,{})
+console.log(cloneObj1)
+cloneObj1.a.name = 'yin';
+console.log(cloneObj1.a.name)  //  yin
+console.log(_obj.a.name)  // hello
