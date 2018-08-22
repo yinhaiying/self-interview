@@ -9,31 +9,23 @@
 // 方法1：暴力求解
 var nums = [-2,1,-3,4,-1,2,1,-5,4];
 var maxSubArray = function(nums) {
-  var sums  = 0;
+
   var max = nums[0]
   //子序列左端点
   for(var i=0;i<nums.length;i++){
+    //sums和必须放在里面，每一次都是重新计算和
+    var sums  = 0;
     //子序列右端点
     for(var j = i;j< nums.length;j++){
-      var subArr = nums.slice(i,j+1);
-      if(subArr.length>0){
-        sums = sum(subArr);
-        if(sums>max){
-         max = sums;
-        }
+      //实际上我们不需要得到具体的子序列的值
+      sums += nums[j];
+      if(sums>max){
+        max = sums;
       }
     }
   }
   return max;
 };
 
-
-function sum(arr){
-  var num = 0;
-  for(var i = 0;i<arr.length;i++){
-    num+=arr[i]
-  }
-  return num;
-}
 
 console.log(maxSubArray(nums))
