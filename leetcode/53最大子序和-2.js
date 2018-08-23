@@ -5,27 +5,35 @@
  输出: 6
  解释: 连续子数组 [4,-1,2,1] 的和最大，为 6。
  */
-var maxSubArray = function(nums) {
-  var current = nums[0];
+var maxSubArray = function (nums) {
+  var max = nums[0];
   var sum = 0;
   var len = nums.length;
-  if(nums.length===1){
-    return nums[0]
+  if (len == 0) {
+    return 0;
   }
-  //如果全是负数，那么应该返回最大的负数。如果最后的和为正，那么就使用扫描法
-
-  //扫描法
   for (var i = 0; i < len; i++) {
-    //如果当前的数小于0，那么它对于求和会带来消极影响，因此需要把它抛弃掉
-    if(current < 0){
-      current = nums[i]
-    }else{
-      current += nums[i];
+    var item = nums[i];
+    //如果和为负，下一个为正，那么要将前面的舍弃掉。
+    if (sum < 0 && item >= 0) {
+      sum = item;
+      max = sum;
+    } else {
+      //其他情况下都是无法进行判断的。直接相加即可。
+      sum += item;
+    }
+    //接下来判断最大值的情况
+    if (sum > max) {
+      max = sum;
+    } else if (item > max) {
+      max = item;
+    } else if (sum < 0) {
+      sum = 0;
     }
   }
-  return sum;
+  return max;
 
 };
 
-var nums = [-1,-2];
+var nums = [-1, -2];
 console.log(maxSubArray(nums))
