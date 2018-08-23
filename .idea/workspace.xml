@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72282092-b4f3-414f-94a9-7b336e2d4d48" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode/35搜索插入位置.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/49字母异位词分组-2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/49字母异位词分组.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/leetcode/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/index.html" afterDir="false" />
     </list>
@@ -24,20 +25,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="28实现strStr.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/28实现strStr.js">
+      <file leaf-file-name="49字母异位词分组.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/49字母异位词分组.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="9" column="2" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="33" />
+            <state relative-caret-position="-20">
+              <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="35搜索插入位置.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/leetcode/35搜索插入位置.js">
+      <file leaf-file-name="49字母异位词分组-2.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/leetcode/49字母异位词分组-2.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="556">
-              <caret line="29" column="31" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
+            <state relative-caret-position="401">
+              <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -67,8 +68,10 @@
         <option value="$PROJECT_DIR$/leetcode/26删除排序数组中的重复项.js" />
         <option value="$PROJECT_DIR$/leetcode/27移除元素.js" />
         <option value="$PROJECT_DIR$/leetcode/28实现strStr.js" />
-        <option value="$PROJECT_DIR$/leetcode/index.html" />
         <option value="$PROJECT_DIR$/leetcode/35搜索插入位置.js" />
+        <option value="$PROJECT_DIR$/leetcode/index.html" />
+        <option value="$PROJECT_DIR$/leetcode/49字母异位词分组-2.js" />
+        <option value="$PROJECT_DIR$/leetcode/49字母异位词分组.js" />
       </list>
     </option>
   </component>
@@ -146,12 +149,12 @@
       <option name="presentableId" value="Default" />
       <updated>1534859350077</updated>
       <workItem from="1534859351559" duration="170000" />
-      <workItem from="1534924268082" duration="5581000" />
+      <workItem from="1534924268082" duration="10224000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21850000" />
+    <option name="totallyTimeSpent" value="26493000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="24" y="23" width="1402" height="800" extended-state="0" />
@@ -395,6 +398,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/35搜索插入位置.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="556">
+          <caret line="29" column="31" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
@@ -402,10 +412,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/35搜索插入位置.js">
+    <entry file="file://$PROJECT_DIR$/leetcode/49字母异位词分组.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="556">
-          <caret line="29" column="31" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
+        <state relative-caret-position="-20">
+          <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/49字母异位词分组-2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
         </state>
       </provider>
     </entry>
