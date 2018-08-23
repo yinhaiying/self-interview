@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72282092-b4f3-414f-94a9-7b336e2d4d48" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/javascript/数组去重/01使用filter进行数组去重.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/数组去重/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/56合并区间.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/58最后一个单词的长度.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/65有效数字.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/69x的平方根.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/53最大子序和-2.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/53最大子序和-2.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/leetcode/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,7 +20,7 @@
         <entry file="file://$PROJECT_DIR$/leetcode/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="378">
-              <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+              <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -55,11 +52,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="58最后一个单词的长度.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="58最后一个单词的长度.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leetcode/58最后一个单词的长度.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="13" column="2" lean-forward="true" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+            <state relative-caret-position="405">
+              <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="65有效数字.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/65有效数字.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="69x的平方根.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/leetcode/69x的平方根.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="17" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -124,8 +139,10 @@
         <option value="$PROJECT_DIR$/javascript/数组去重/index.html" />
         <option value="$PROJECT_DIR$/javascript/数组去重/01使用filter进行数组去重.js" />
         <option value="$PROJECT_DIR$/leetcode/56合并区间.js" />
-        <option value="$PROJECT_DIR$/leetcode/index.html" />
         <option value="$PROJECT_DIR$/leetcode/58最后一个单词的长度.js" />
+        <option value="$PROJECT_DIR$/leetcode/65有效数字.js" />
+        <option value="$PROJECT_DIR$/leetcode/index.html" />
+        <option value="$PROJECT_DIR$/leetcode/69x的平方根.js" />
       </list>
     </option>
   </component>
@@ -209,12 +226,12 @@
       <option name="presentableId" value="Default" />
       <updated>1534859350077</updated>
       <workItem from="1534859351559" duration="170000" />
-      <workItem from="1534924268082" duration="14506000" />
+      <workItem from="1534924268082" duration="15632000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30775000" />
+    <option name="totallyTimeSpent" value="31901000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="24" y="23" width="1402" height="800" extended-state="0" />
@@ -507,17 +524,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/index.html">
+    <entry file="file://$PROJECT_DIR$/leetcode/58最后一个单词的长度.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        <state relative-caret-position="405">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/58最后一个单词的长度.js">
+    <entry file="file://$PROJECT_DIR$/leetcode/65有效数字.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="2" lean-forward="true" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+        <state relative-caret-position="189">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/69x的平方根.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="17" selection-end-column="3" />
         </state>
       </provider>
     </entry>
