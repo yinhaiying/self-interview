@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72282092-b4f3-414f-94a9-7b336e2d4d48" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode/169求众数.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/179最大数.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/198打家劫舍.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/198打家劫舍.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/198打家劫舍.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/leetcode/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,17 +17,29 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leetcode/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="12" column="6" lean-forward="true" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+            <state relative-caret-position="360">
+              <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="179最大数.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/leetcode/179最大数.js">
+      <file leaf-file-name="198打家劫舍.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/leetcode/198打家劫舍.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="107">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="387">
+              <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="70爬楼梯.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/70爬楼梯.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="36" column="14" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -76,9 +85,9 @@
         <option value="$PROJECT_DIR$/leetcode/136只出现一次的数字.js" />
         <option value="$PROJECT_DIR$/leetcode/167两数之和-输入有序数组.js" />
         <option value="$PROJECT_DIR$/leetcode/169求众数.js" />
-        <option value="$PROJECT_DIR$/leetcode/198打家劫舍.js" />
-        <option value="$PROJECT_DIR$/leetcode/index.html" />
         <option value="$PROJECT_DIR$/leetcode/179最大数.js" />
+        <option value="$PROJECT_DIR$/leetcode/index.html" />
+        <option value="$PROJECT_DIR$/leetcode/198打家劫舍.js" />
       </list>
     </option>
   </component>
@@ -167,12 +176,12 @@
       <workItem from="1535006068596" duration="862000" />
       <workItem from="1535007090637" duration="1092000" />
       <workItem from="1535008649540" duration="318000" />
-      <workItem from="1535009045553" duration="2255000" />
+      <workItem from="1535009045553" duration="6197000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41879000" />
+    <option name="totallyTimeSpent" value="45821000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="23" y="23" width="1402" height="797" extended-state="0" />
@@ -255,6 +264,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="18" selection-end-column="52" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -518,17 +530,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/70爬楼梯.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="972">
-          <caret line="36" column="14" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/88合并两个有序数组.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="18" selection-end-column="52" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -553,20 +561,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/198打家劫舍.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/index.html">
+    <entry file="file://$PROJECT_DIR$/leetcode/179最大数.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="12" column="6" lean-forward="true" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+        <state relative-caret-position="80">
+          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="5" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/179最大数.js">
+    <entry file="file://$PROJECT_DIR$/leetcode/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="360">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/70爬楼梯.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="36" column="14" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/198打家劫舍.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
