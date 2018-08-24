@@ -27,7 +27,6 @@ function longestArr(arr){
  for(var attr in obj){
    result.push(obj[attr][obj[attr].length-1]-obj[attr][0])
  }
-
  var res = Math.max(...result)
  len = res > len?res:len;
  return len;

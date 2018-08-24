@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72282092-b4f3-414f-94a9-7b336e2d4d48" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/面试算法题收集/04求只包含0，1，-1的最长数组的最长子序列.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/数组的排序/01冒泡排序.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/数组的排序/02快速排序.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/数组的排序/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试算法题收集/05.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试算法题收集/04求只包含0，1，-1的最长数组的最长子序列.js" beforeDir="false" afterPath="$PROJECT_DIR$/面试算法题收集/04求只包含0，1，-1的最长数组的最长子序列.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/面试算法题收集/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/面试算法题收集/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,11 +58,50 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="04求只包含0，1，-1的最长数组的最长子序列.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="04求只包含0，1，-1的最长数组的最长子序列.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/面试算法题收集/04求只包含0，1，-1的最长数组的最长子序列.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="25" column="17" lean-forward="true" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+            <state relative-caret-position="333">
+              <caret line="28" column="2" selection-start-line="28" selection-start-column="2" selection-end-line="28" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="01冒泡排序.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javascript/数组的排序/01冒泡排序.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javascript/数组的排序/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="02快速排序.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javascript/数组的排序/02快速排序.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="513">
+              <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="05.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/面试算法题收集/05.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="454">
+              <caret line="35" column="19" lean-forward="true" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -67,7 +110,7 @@
         <entry file="file://$PROJECT_DIR$/面试算法题收集/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="189">
-              <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -131,8 +174,15 @@
         <option value="$PROJECT_DIR$/面试算法题收集/02将数组按层次展开.js" />
         <option value="$PROJECT_DIR$/面试算法题收集/03将数组展开成特定的层次.js" />
         <option value="$PROJECT_DIR$/面试算法题收集/04求和为0的最长连续子序列的长度.js" />
-        <option value="$PROJECT_DIR$/面试算法题收集/index.html" />
         <option value="$PROJECT_DIR$/面试算法题收集/05求只包含0，1，-1的最长数组的最长子序列.js" />
+        <option value="$PROJECT_DIR$/面试算法题收集/04求只包含0，1，-1的最长数组的最长子序列.js" />
+        <option value="$PROJECT_DIR$/javascript/数组的排序.js" />
+        <option value="$PROJECT_DIR$/javascript/数组的排序/快排.js" />
+        <option value="$PROJECT_DIR$/javascript/数组的排序/01快排.js" />
+        <option value="$PROJECT_DIR$/javascript/数组的排序/index.html" />
+        <option value="$PROJECT_DIR$/javascript/数组的排序/02快速排序.js" />
+        <option value="$PROJECT_DIR$/面试算法题收集/index.html" />
+        <option value="$PROJECT_DIR$/面试算法题收集/05.js" />
       </list>
     </option>
   </component>
@@ -150,6 +200,9 @@
     <option name="y" value="23" />
     <option name="width" value="1402" />
     <option name="height" value="797" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -222,12 +275,12 @@
       <workItem from="1535007090637" duration="1092000" />
       <workItem from="1535008649540" duration="318000" />
       <workItem from="1535009045553" duration="7787000" />
-      <workItem from="1535075987895" duration="8823000" />
+      <workItem from="1535075987895" duration="12443000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56234000" />
+    <option name="totallyTimeSpent" value="59854000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="38" y="23" width="1402" height="797" extended-state="0" />
@@ -278,41 +331,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CSS">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1809">
-          <caret line="67" column="25" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6291">
-          <caret line="233" column="24" selection-start-line="233" selection-start-column="24" selection-end-line="233" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/layout/圣杯布局.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -613,17 +631,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/面试算法题收集/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/javascript/数组的排序.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/面试算法题收集/04求只包含0，1，-1的最长数组的最长子序列.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="25" column="17" lean-forward="true" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+        <state relative-caret-position="333">
+          <caret line="28" column="2" selection-start-line="28" selection-start-column="2" selection-end-line="28" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/数组的排序/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/数组的排序/01冒泡排序.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/数组的排序/02快速排序.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面试算法题收集/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面试算法题收集/05.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="35" column="19" lean-forward="true" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="19" />
         </state>
       </provider>
     </entry>
