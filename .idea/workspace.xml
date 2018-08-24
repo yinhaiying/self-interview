@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="72282092-b4f3-414f-94a9-7b336e2d4d48" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/面试算法题收集/02将数组按层次展开.js" beforeDir="false" afterPath="$PROJECT_DIR$/面试算法题收集/02将数组按层次展开.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/面试算法题收集/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/面试算法题收集/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -38,8 +37,8 @@
       <file leaf-file-name="02将数组按层次展开.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/面试算法题收集/02将数组按层次展开.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="117">
-              <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+            <state relative-caret-position="115">
+              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -192,12 +191,12 @@
       <workItem from="1535007090637" duration="1092000" />
       <workItem from="1535008649540" duration="318000" />
       <workItem from="1535009045553" duration="7787000" />
-      <workItem from="1535075987895" duration="3171000" />
+      <workItem from="1535075987895" duration="3833000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50582000" />
+    <option name="totallyTimeSpent" value="51244000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="38" y="23" width="1402" height="797" extended-state="0" />
@@ -592,8 +591,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/面试算法题收集/02将数组按层次展开.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        <state relative-caret-position="115">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
         </state>
       </provider>
     </entry>
