@@ -2,37 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72282092-b4f3-414f-94a9-7b336e2d4d48" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/javascript/Sort/04插入排序-2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/Sort/04插入排序-二分法排序.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/Sort/04插入排序.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/Sort/05二分查找法.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/283移动零.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/50-100/75颜色分类.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/50-100/80删除排序数组中的重复项.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javascript/Sort/03selectSort.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/Sort/03选择排序.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javascript/Sort/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/Sort/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js" beforeDir="false" afterPath="$PROJECT_DIR$/js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/03不重复的最长子串.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/0-50/03不重复的最长子串.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/05最长回文子串.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/0-50/05最长回文子串.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/05最长回文子串标准答案.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/0-50/05最长回文子串标准答案.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/07反转整数.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/0-50/07反转整数.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/09判断一个数是否是回文数.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/0-50/09判断一个数是否是回文数.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/14最长公共前缀.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/0-50/14最长公共前缀.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/20有效的括号.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/0-50/20有效的括号.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/26删除排序数组中的重复项.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/0-50/26删除排序数组中的重复项.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/27移除元素.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/0-50/27移除元素.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/28实现strStr.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/0-50/28实现strStr.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/35搜索插入位置.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/0-50/35搜索插入位置.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/49字母异位词分组-2.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/0-50/49字母异位词分组-2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/49字母异位词分组.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/0-50/49字母异位词分组.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/53最大子序和-1.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/50-100/53最大子序和-1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/53最大子序和-2.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/50-100/53最大子序和-2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/53最大子序和.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/50-100/53最大子序和.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/56合并区间.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/50-100/56合并区间.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/58最后一个单词的长度.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/50-100/58最后一个单词的长度.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/65有效数字.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/50-100/65有效数字.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/69x的平方根.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/50-100/69x的平方根.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/70爬楼梯.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/50-100/70爬楼梯.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/88合并两个有序数组.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/50-100/88合并两个有序数组.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/leetcode/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,18 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="03选择排序.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javascript/Sort/03选择排序.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="04插入排序.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/javascript/Sort/04插入排序.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -95,11 +55,35 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="283移动零.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="283移动零.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leetcode/283移动零.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="343">
-              <caret line="38" column="3" lean-forward="true" selection-start-line="38" selection-start-column="3" selection-end-line="38" selection-end-column="3" />
+            <state relative-caret-position="238">
+              <caret line="37" column="5" lean-forward="true" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="80删除排序数组中的重复项.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/50-100/80删除排序数组中的重复项.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="75颜色分类.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/leetcode/50-100/75颜色分类.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="358">
+              <caret line="46" column="41" selection-start-line="46" selection-start-column="41" selection-end-line="46" selection-end-column="41" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -110,8 +94,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leetcode/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+            <state relative-caret-position="336">
+              <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -148,10 +132,12 @@
     <findStrings>
       <find>，</find>
       <find>temp</find>
+      <find>arr</find>
     </findStrings>
     <replaceStrings>
       <replace>,</replace>
       <replace>key</replace>
+      <replace>nums</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -160,8 +146,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/leetcode/07反转整数.js" />
-        <option value="$PROJECT_DIR$/leetcode/09判断一个数是否是回文数.js" />
         <option value="$PROJECT_DIR$/leetcode/14最长公共前缀.js" />
         <option value="$PROJECT_DIR$/leetcode/20有效的括号.js" />
         <option value="$PROJECT_DIR$/leetcode/26删除排序数组中的重复项.js" />
@@ -209,8 +193,10 @@
         <option value="$PROJECT_DIR$/js" />
         <option value="$PROJECT_DIR$/javascript/Sort/index.html" />
         <option value="$PROJECT_DIR$/javascript/Sort/05二分查找法.js" />
-        <option value="$PROJECT_DIR$/leetcode/index.html" />
         <option value="$PROJECT_DIR$/leetcode/283移动零.js" />
+        <option value="$PROJECT_DIR$/leetcode/50-100/80删除排序数组中的重复项.js" />
+        <option value="$PROJECT_DIR$/leetcode/index.html" />
+        <option value="$PROJECT_DIR$/leetcode/50-100/75颜色分类.js" />
       </list>
     </option>
   </component>
@@ -248,6 +234,12 @@
               <item name="interview" type="b2602c69:ProjectViewProjectNode" />
               <item name="interview" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interview" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="50-100" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -308,12 +300,12 @@
       <workItem from="1535423189547" duration="97000" />
       <workItem from="1535423295613" duration="43000" />
       <workItem from="1535423358734" duration="354000" />
-      <workItem from="1535423894573" duration="17246000" />
+      <workItem from="1535423894573" duration="20982000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78483000" />
+    <option name="totallyTimeSpent" value="82219000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="38" y="23" width="1402" height="797" extended-state="0" />
@@ -364,20 +356,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="10" selection-start-line="10" selection-end-line="19" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/0-50/03不重复的最长子串.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="30" column="17" lean-forward="true" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/0-50/05最长回文子串.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -688,17 +666,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/index.html">
+    <entry file="file://$PROJECT_DIR$/leetcode/283移动零.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        <state relative-caret-position="238">
+          <caret line="37" column="5" lean-forward="true" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/283移动零.js">
+    <entry file="file://$PROJECT_DIR$/leetcode/50-100/80删除排序数组中的重复项.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="38" column="3" lean-forward="true" selection-start-line="38" selection-start-column="3" selection-end-line="38" selection-end-column="3" />
+        <state relative-caret-position="360">
+          <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/50-100/75颜色分类.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="46" column="41" selection-start-line="46" selection-start-column="41" selection-end-line="46" selection-end-column="41" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
