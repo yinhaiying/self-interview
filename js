@@ -115,7 +115,17 @@ setTimeout实现setInterval
 二十九：如何实现单线程的高并发
 三十：递归深度遍历树，不用递归如何实现？
 三十一：如何实现图片的懒加载？
+
 三十二：什么是restful?
+三十三：说一下你对MVVM的理解？
+  说到MVVM最好先说一下MVC，user > view > controller >model.
+  用户在view界面上进行了操作，比如点击按钮等，那么就会通过controller来进行控制
+  通过controller修改model数据，model数据的变化又反映到view视图上。按照这样的顺序来
+  进行操作，每一部分完成相应的功能。
+  MVVM：viewmodel作为view和model连接的一个桥梁 model viewmodel model
+  其中view视图通过事件触发。通过viewmodel进行事件监听来修改model
+  model模型通过数据绑定的方式通过viewmodel进行数据绑定来修改view
+  通过viewmodel作为桥梁来实现view和model的分离。
 
 
 

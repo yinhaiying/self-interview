@@ -5,6 +5,25 @@
     <title>Title</title>
 </head>
 <body>
-<script src="05.js"></script>
+<script >
+
+  console.log(1);
+
+  new Promise(function (resolve, reject){
+    console.log('这里是同步代码直接执行')
+    reject(true);
+    window.setTimeout(function (){
+      resolve(false);
+    }, 0);
+  })
+    .then(function(){
+    console.log(2);
+  }, function(){
+    console.log(3);
+  });
+
+  console.log(4);
+  //输出结果：1 这里是同步代码直接执行 4 3
+</script>
 </body>
 </html>

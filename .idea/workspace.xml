@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72282092-b4f3-414f-94a9-7b336e2d4d48" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode/120三角形最小路径和.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/ES6相关问题/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/ES6相关问题/promise问题/01红绿灯问题.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js" beforeDir="false" afterPath="$PROJECT_DIR$/js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/198打家劫舍.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/198打家劫舍.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/leetcode/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试算法题收集/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/面试算法题收集/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,11 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="120三角形最小路径和.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/leetcode/120三角形最小路径和.js">
+      <file leaf-file-name="01红绿灯问题.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javascript/ES6相关问题/promise问题/01红绿灯问题.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="497">
-              <caret line="36" column="29" lean-forward="true" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
+            <state relative-caret-position="352">
+              <caret line="27" column="6" lean-forward="true" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -27,11 +31,63 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="117" lean-forward="true" selection-start-line="117" selection-end-line="117" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="198打家劫舍.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/leetcode/198打家劫舍.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="179">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leetcode/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+            <state relative-caret-position="270">
+              <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index2.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index2.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index1.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index1.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-7227" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/面试算法题收集/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javascript/ES6相关问题/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -65,8 +121,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/leetcode/49字母异位词分组.js" />
-        <option value="$PROJECT_DIR$/leetcode/53最大子序和-2.js" />
         <option value="$PROJECT_DIR$/javascript/数组去重/index.html" />
         <option value="$PROJECT_DIR$/javascript/数组去重/01使用filter进行数组去重.js" />
         <option value="$PROJECT_DIR$/leetcode/56合并区间.js" />
@@ -78,7 +132,6 @@
         <option value="$PROJECT_DIR$/leetcode/136只出现一次的数字.js" />
         <option value="$PROJECT_DIR$/leetcode/169求众数.js" />
         <option value="$PROJECT_DIR$/leetcode/179最大数.js" />
-        <option value="$PROJECT_DIR$/leetcode/198打家劫舍.js" />
         <option value="$PROJECT_DIR$/leetcode/202快乐数.js" />
         <option value="$PROJECT_DIR$/面试算法题收集/01创建数组.js" />
         <option value="$PROJECT_DIR$/Vue/vue.js" />
@@ -93,7 +146,6 @@
         <option value="$PROJECT_DIR$/javascript/数组的排序/01快排.js" />
         <option value="$PROJECT_DIR$/javascript/数组的排序/index.html" />
         <option value="$PROJECT_DIR$/javascript/数组的排序/02快速排序.js" />
-        <option value="$PROJECT_DIR$/面试算法题收集/index.html" />
         <option value="$PROJECT_DIR$/面试算法题收集/05.js" />
         <option value="$PROJECT_DIR$/javascript/数组的排序/03选择排序.js" />
         <option value="$PROJECT_DIR$/javascript/Sort/03selectSort.js" />
@@ -101,7 +153,6 @@
         <option value="$PROJECT_DIR$/javascript/Sort/04插入排序.js" />
         <option value="$PROJECT_DIR$/javascript/Sort/04插入排序-2.js" />
         <option value="$PROJECT_DIR$/javascript/Sort/04插入排序-二分法排序.js" />
-        <option value="$PROJECT_DIR$/js" />
         <option value="$PROJECT_DIR$/javascript/Sort/index.html" />
         <option value="$PROJECT_DIR$/javascript/Sort/05二分查找法.js" />
         <option value="$PROJECT_DIR$/leetcode/283移动零.js" />
@@ -114,8 +165,13 @@
         <option value="$PROJECT_DIR$/leetcode/349求两个数组的交集.js" />
         <option value="$PROJECT_DIR$/leetcode/350求两个数组的交集2.js" />
         <option value="$PROJECT_DIR$/leetcode/343整数拆分.js" />
-        <option value="$PROJECT_DIR$/leetcode/index.html" />
         <option value="$PROJECT_DIR$/leetcode/120三角形最小路径和.js" />
+        <option value="$PROJECT_DIR$/javascript/ES6相关问题/index.html" />
+        <option value="$PROJECT_DIR$/javascript/ES6相关问题/promise问题/01红绿灯问题.js" />
+        <option value="$PROJECT_DIR$/面试算法题收集/index.html" />
+        <option value="$PROJECT_DIR$/js" />
+        <option value="$PROJECT_DIR$/leetcode/index.html" />
+        <option value="$PROJECT_DIR$/leetcode/198打家劫舍.js" />
       </list>
     </option>
   </component>
@@ -153,7 +209,23 @@
             <path>
               <item name="interview" type="b2602c69:ProjectViewProjectNode" />
               <item name="interview" type="462c0819:PsiDirectoryNode" />
+              <item name="javascript" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interview" type="462c0819:PsiDirectoryNode" />
+              <item name="javascript" type="462c0819:PsiDirectoryNode" />
+              <item name="ES6相关问题" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interview" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interview" type="462c0819:PsiDirectoryNode" />
+              <item name="面试算法题收集" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -216,12 +288,12 @@
       <workItem from="1535423894573" duration="32087000" />
       <workItem from="1535535864662" duration="295000" />
       <workItem from="1535536224320" duration="53000" />
-      <workItem from="1535536414461" duration="10835000" />
+      <workItem from="1535536414461" duration="20854000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="104507000" />
+    <option name="totallyTimeSpent" value="114526000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="38" y="23" width="1402" height="797" extended-state="0" />
@@ -272,41 +344,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/leetcode/0-50/27移除元素.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/0-50/28实现strStr.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="2" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/0-50/35搜索插入位置.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="556">
-          <caret line="29" column="31" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/0-50/49字母异位词分组.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-20">
-          <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/0-50/49字母异位词分组-2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/50-100/53最大子序和-2.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
@@ -391,13 +428,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/198打家劫舍.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/202快乐数.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -446,20 +476,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/面试算法题收集/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/面试算法题收集/05.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/javascript/Sort/02快速排序.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -485,13 +501,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="337">
           <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="526">
-          <caret line="117" column="15" lean-forward="true" selection-start-line="117" selection-start-column="15" selection-end-line="117" selection-end-column="15" />
         </state>
       </provider>
     </entry>
@@ -608,20 +617,82 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/120三角形最小路径和.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="497">
-          <caret line="36" column="29" lean-forward="true" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
+        <state relative-caret-position="420">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-396" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面试算法题收集/05.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="38" column="3" lean-forward="true" selection-start-line="38" selection-start-column="3" selection-end-line="38" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/ES6相关问题/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7227" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/ES6相关问题/promise问题/01红绿灯问题.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="27" column="6" lean-forward="true" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面试算法题收集/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="117" lean-forward="true" selection-start-line="117" selection-end-line="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/198打家劫舍.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
