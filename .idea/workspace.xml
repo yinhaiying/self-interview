@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72282092-b4f3-414f-94a9-7b336e2d4d48" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode/0-50/03不重复的最长子串-2双索引.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/0-50/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/209长度最小的子数组.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/343整数拆分.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/349求两个数组的交集.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/120三角形最小路径和.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/leetcode/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/index.html" afterDir="false" />
     </list>
@@ -19,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="343整数拆分.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/leetcode/343整数拆分.js">
+      <file leaf-file-name="120三角形最小路径和.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/leetcode/120三角形最小路径和.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="43" column="18" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
+            <state relative-caret-position="497">
+              <caret line="36" column="29" lean-forward="true" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -69,7 +65,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/leetcode/49字母异位词分组-2.js" />
         <option value="$PROJECT_DIR$/leetcode/49字母异位词分组.js" />
         <option value="$PROJECT_DIR$/leetcode/53最大子序和-2.js" />
         <option value="$PROJECT_DIR$/javascript/数组去重/index.html" />
@@ -118,8 +113,9 @@
         <option value="$PROJECT_DIR$/leetcode/0-50/03不重复的最长子串-2双索引.js" />
         <option value="$PROJECT_DIR$/leetcode/349求两个数组的交集.js" />
         <option value="$PROJECT_DIR$/leetcode/350求两个数组的交集2.js" />
-        <option value="$PROJECT_DIR$/leetcode/index.html" />
         <option value="$PROJECT_DIR$/leetcode/343整数拆分.js" />
+        <option value="$PROJECT_DIR$/leetcode/index.html" />
+        <option value="$PROJECT_DIR$/leetcode/120三角形最小路径和.js" />
       </list>
     </option>
   </component>
@@ -220,12 +216,12 @@
       <workItem from="1535423894573" duration="32087000" />
       <workItem from="1535535864662" duration="295000" />
       <workItem from="1535536224320" duration="53000" />
-      <workItem from="1535536414461" duration="6285000" />
+      <workItem from="1535536414461" duration="10835000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="99957000" />
+    <option name="totallyTimeSpent" value="104507000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="38" y="23" width="1402" height="797" extended-state="0" />
@@ -276,13 +272,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/leetcode/0-50/26删除排序数组中的重复项.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="15" column="4" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/0-50/27移除元素.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="282">
@@ -609,6 +598,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/343整数拆分.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="49" column="24" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
@@ -616,10 +615,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/343整数拆分.js">
+    <entry file="file://$PROJECT_DIR$/leetcode/120三角形最小路径和.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="43" column="18" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
+        <state relative-caret-position="497">
+          <caret line="36" column="29" lean-forward="true" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
