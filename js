@@ -44,8 +44,14 @@ ui事件：scroll resize
 所谓事件委托是指不将事件函数直接绑定在目标元素身上，而是绑定在目标元素的氟元素身上，利用事件冒泡的机制
 通过target来获取到目标元素，从而调用事件处理函数的机制。
 优点是：可以比较适合动态元素的绑定，新添加的子元素也能够有事件函数。能够触发事件。
-九：调用js的new操作符发生了什么？
+九：调用js的new操作符发生了什么？使用代码表示。
 创建了一个新的对象，这个对象的原型指向构造函数的prototype，把this指向了这个对象，返回这个新创建的对象。
+  var obj = new Base();
+  该步一共做了三件事：
+  1：var obj = {}创建了一个空的对象
+  2：obj.__proto__ = Base.protoype  我们将这个空对象的__proto__成员指向了Base函数对象prototype成员对象
+  3: Base.call(obj)  我们将Base函数对象的this指针替换成obj。
+  4:return obj返回这个空的对象
 九：call,apply,bind的区别
 相同点：call,apply,bind都能够改变this的指向。
 区别：
@@ -126,7 +132,12 @@ setTimeout实现setInterval
   其中view视图通过事件触发。通过viewmodel进行事件监听来修改model
   model模型通过数据绑定的方式通过viewmodel进行数据绑定来修改view
   通过viewmodel作为桥梁来实现view和model的分离。
+三十四：说一下MVC和MVVM的区别？
+  MVC允许在不改变视图的情况下改变视图对用户输入的响应方式，用户对View的操作交给了Controller处理，
+  在Controller中响应View的事件调用Model的接口对数据进行操作，一旦Model发生变化便通知相关视图进行更新。
 
+  MVVM与MVC最大的区别就是：它实现了View和Model的自动同步，也就是当Model的属性改变时，我们不用再自己
+  手动操作Dom元素，来改变View的显示，而是改变属性后该属性对应View层显示会自动改变。最大的特点就是双向数据绑定
 
 
 
