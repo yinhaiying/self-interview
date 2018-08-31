@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72282092-b4f3-414f-94a9-7b336e2d4d48" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/面试算法题收集/字符串相关的/01将字符串格式转化为json格式-2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/面试算法题收集/字符串相关的/01将字符串格式转化为json格式.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/面试算法题收集/字符串相关的/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/数据结构/栈/01栈的实现.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/数据结构/栈/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js" beforeDir="false" afterPath="$PROJECT_DIR$/js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -37,32 +38,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="01将字符串格式转化为json格式.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/面试算法题收集/字符串相关的/01将字符串格式转化为json格式.js">
+      <file leaf-file-name="js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="01将字符串格式转化为json格式-2.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/面试算法题收集/字符串相关的/01将字符串格式转化为json格式-2.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="409">
-              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+            <state relative-caret-position="301">
+              <caret line="157" column="5" selection-start-line="157" selection-start-column="5" selection-end-line="157" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javascript/函数/index.html">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+            <state relative-caret-position="117">
+              <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="01栈的实现.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/javascript/数据结构/栈/01栈的实现.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javascript/数据结构/栈/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -72,8 +79,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -96,9 +103,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/leetcode/70爬楼梯.js" />
-        <option value="$PROJECT_DIR$/leetcode/88合并两个有序数组.js" />
-        <option value="$PROJECT_DIR$/leetcode/136只出现一次的数字.js" />
         <option value="$PROJECT_DIR$/leetcode/169求众数.js" />
         <option value="$PROJECT_DIR$/leetcode/179最大数.js" />
         <option value="$PROJECT_DIR$/leetcode/202快乐数.js" />
@@ -138,7 +142,6 @@
         <option value="$PROJECT_DIR$/javascript/ES6相关问题/index.html" />
         <option value="$PROJECT_DIR$/javascript/ES6相关问题/promise问题/01红绿灯问题.js" />
         <option value="$PROJECT_DIR$/面试算法题收集/index.html" />
-        <option value="$PROJECT_DIR$/js" />
         <option value="$PROJECT_DIR$/leetcode/index.html" />
         <option value="$PROJECT_DIR$/leetcode/198打家劫舍.js" />
         <option value="$PROJECT_DIR$/javascript/函数/index.html" />
@@ -147,6 +150,10 @@
         <option value="$PROJECT_DIR$/面试算法题收集/字符串相关的/01将字符串格式转化为json格式.js" />
         <option value="$PROJECT_DIR$/面试算法题收集/字符串相关的/index.html" />
         <option value="$PROJECT_DIR$/面试算法题收集/字符串相关的/01将字符串格式转化为json格式-2.js" />
+        <option value="$PROJECT_DIR$/js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/javascript/数据结构/栈/index.html" />
+        <option value="$PROJECT_DIR$/javascript/数据结构/栈/01栈的实现.js" />
       </list>
     </option>
   </component>
@@ -190,25 +197,19 @@
               <item name="interview" type="b2602c69:ProjectViewProjectNode" />
               <item name="interview" type="462c0819:PsiDirectoryNode" />
               <item name="javascript" type="462c0819:PsiDirectoryNode" />
-              <item name="函数" type="462c0819:PsiDirectoryNode" />
+              <item name="数据结构" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="interview" type="b2602c69:ProjectViewProjectNode" />
               <item name="interview" type="462c0819:PsiDirectoryNode" />
               <item name="javascript" type="462c0819:PsiDirectoryNode" />
-              <item name="函数" type="462c0819:PsiDirectoryNode" />
-              <item name="函数柯里化" type="462c0819:PsiDirectoryNode" />
+              <item name="数据结构" type="462c0819:PsiDirectoryNode" />
+              <item name="栈" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="interview" type="b2602c69:ProjectViewProjectNode" />
               <item name="interview" type="462c0819:PsiDirectoryNode" />
               <item name="面试算法题收集" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="interview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="interview" type="462c0819:PsiDirectoryNode" />
-              <item name="面试算法题收集" type="462c0819:PsiDirectoryNode" />
-              <item name="字符串相关的" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -273,12 +274,12 @@
       <workItem from="1535423894573" duration="32087000" />
       <workItem from="1535535864662" duration="295000" />
       <workItem from="1535536224320" duration="53000" />
-      <workItem from="1535536414461" duration="27251000" />
+      <workItem from="1535536414461" duration="30242000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="120923000" />
+    <option name="totallyTimeSpent" value="123914000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="38" y="23" width="1402" height="797" extended-state="0" />
@@ -329,20 +330,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/leetcode/50-100/65有效数字.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/50-100/69x的平方根.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="17" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/50-100/88合并两个有序数组.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
@@ -577,11 +564,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-396" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/面试算法题收集/数组相关/05.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="279">
@@ -625,13 +607,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="117" lean-forward="true" selection-start-line="117" selection-end-line="117" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -663,10 +638,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/面试算法题收集/字符串相关的/index.html">
+    <entry file="file://$PROJECT_DIR$/面试算法题收集/字符串相关的/01将字符串格式转化为json格式-2.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        <state relative-caret-position="893">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
         </state>
       </provider>
     </entry>
@@ -680,10 +655,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/面试算法题收集/字符串相关的/01将字符串格式转化为json格式-2.js">
+    <entry file="file://$PROJECT_DIR$/面试算法题收集/字符串相关的/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+        <state relative-caret-position="108">
+          <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="157" column="5" selection-start-line="157" selection-start-column="5" selection-end-line="157" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/数据结构/栈/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/数据结构/栈/01栈的实现.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
         </state>
       </provider>
     </entry>
