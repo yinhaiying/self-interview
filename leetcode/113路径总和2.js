@@ -44,12 +44,15 @@ var pathSum = function(root, sum) {
     return result;
   }
   //递归过程
+
   var leftRes = pathSum(root.left,sum-root.val);//[[2]]
+
   for(var i = 0;i < leftRes.length;i++){
     path = [];
     path = path.concat(root.val,leftRes[i]);
     result.push(path)
   };
+
   var rightRes = pathSum(root.right,sum-root.val);//[[2]]
   for(var i = 0;i < rightRes.length;i++){
     path =[];
