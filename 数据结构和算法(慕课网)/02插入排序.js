@@ -18,12 +18,7 @@ function insertSort(arr){
       }else{
         break;
       }
-
     }
-
-
-
-
   }
 
 }
