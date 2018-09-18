@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>图片的预加载</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0
+        }
+    </style>
+</head>
+<body>
+<!--图片预先加载的实现方法一-->
+<img src="./img/img1.gif" alt="" style = 'display:none'>
+
+<script>
+  /*图片预加载的实现方法二：通过js来实现*/
+
+  var images = [];
+
+  function preload(){
+    for(var i = 0;i <arguments.length;i++){
+
+      images[i] = new Image();
+      images[i].src = arguments[i];
+
+    }
+  }
+  preload('image1.jpg','image1.jpg','image1.jpg')
+
+
+
+</script>
+
+</body>
+</html>
