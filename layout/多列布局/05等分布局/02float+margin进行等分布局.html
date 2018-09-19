@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>float+margin等分布局</title>
+	<style>
+		.parent{
+		margin-left:-10px;
+		}
+		.column{
+			float:left;
+			width:25%;
+			padding-left:10px;
+			box-sizing:border-box;
+		}
+	</style>
+</head>
+<body>
+	<div class="parent">
+		<div class="column" style="background-color: red"><p>1</p></div>
+		<div class="column" style="background-color: green"><p>2</p></div>
+		<div class="column" style="background-color: blue"><p>3</p></div>
+		<div class="column" style="background-color: yellow"><p>4</p></div>
+	</div>
+</body>
+</html>
