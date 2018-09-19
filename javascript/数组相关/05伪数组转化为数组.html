@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0
+        }
+    </style>
+</head>
+<body>
+  <div>1</div>
+  <div>2</div>
+  <div>3</div>
+  <div>4</div>
+  <script>
+
+
+    var aDiv = document.getElementsByClassName('div');
+    //伪数组转化为数组
+
+    var res1 = Array.from(aDiv);
+    console.log(Array.isArray(res1))  //  true;
+
+    var res2 = [...aDiv];
+    console.log(Array.isArray(res2))  //  true;
+
+    //因为伪数组是不具有slice方法的，因此需要调用Array.prototype上面的slice方法
+    //然后将this指向伪数组
+    var res3 = Array.prototype.slice.call(aDiv)
+    console.log(Array.isArray(res3))  //  true;
+
+
+
+
+
+  </script>
+</body>
+</html>
