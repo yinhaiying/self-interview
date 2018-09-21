@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>栈</title>
+</head>
+<body>
+	<script>
+		/*
+		判断一个序列是否是栈的合法序列
+		比如将12345按照一定的入栈出栈顺序进行出入栈，
+		判断45321是否是合法顺序
+		*/
+		var str = '54321';
+
+		function checkStack(str,n){
+		  // 定义一个数组来模拟栈,辅助栈
+          var arr = [];
+          var i = 1;
+          var top = 0;
+          var k = 0;
+          // 如果i已经大于n这个最大数了，表示所有的元素都已经进行过入栈和出栈了
+          while(i <= n){
+            if(parseInt(str[k]) > i){
+              arr.push(i);
+              if(i ==1){
+              	top =0;
+              }else{
+              	top++;
+              }
+              i++;
+            }else if(parseInt(str[k]) === i){
+            	i++;
+            	k++;
+            }
+          }
+          // 判断栈中的元素和剩下的序列元素是否一一对应，只要有一个对应不上则不是
+          while( top >= 0){
+          	if(arr[top] !== parseInt( str[k])){
+          		return false;
+          	}else{
+              top--;
+              k++;
+          	}
+          }
+          return true;
+		}
+
+		console.log( checkStack(str,5));
+
+
+	</script>
+</body>
+</html>
