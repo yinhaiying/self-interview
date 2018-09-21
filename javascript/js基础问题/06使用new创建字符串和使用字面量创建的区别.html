@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>使用new字符串和字面量创建的区别</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0
+        }
+    </style>
+</head>
+<body>
+  <script>
+
+
+    var str = '123';
+    var str1 = new String('123');
+    var str2 = String('123')
+    str.foo = 'hello world';  //使用字面量定义的字符串添加对象将会被忽略
+    str1.foo ='hello world'
+
+    //返回的类型
+    console.log(typeof str);  //string
+    console.log(typeof str1); //object
+
+    //是否继承自String
+    console.log(str instanceof String)  //false
+    console.log(str1 instanceof String) //true
+
+    //是否能够添加属性
+    console.log(str.foo);  //undefined
+    console.log(str1.foo); //hello world
+
+
+    //使用String()和使用字面量定义的完全相同
+    console.log(str === str2)   // true
+    console.log(str1 === str2)  //false
+
+
+
+  </script>
+
+</body>
+</html>

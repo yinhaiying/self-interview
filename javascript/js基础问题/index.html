@@ -14,6 +14,25 @@
     </style>
 </head>
 <body>
-<script src = './05深拷贝和浅拷贝.js'></script>
+<script>
+  var n = 10;
+  function getMoney(n,res){
+    while(n > 0){
+      //如果是偶数
+      if(n % 2 === 0){
+        res += '3';
+        n = (n-2)/2;
+      }else{
+        res +='2';
+        n = (n-1)/2;
+      }
+    }
+    return res;
+  }
+  var res = ''
+  var result = getMoney(n,res);
+  console.log(result.split('').reverse().join(""))
+
+</script>
 </body>
 </html>
