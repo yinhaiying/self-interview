@@ -5,6 +5,36 @@
     <title>字符串</title>
 </head>
 <body>
-<script src = '05.js'></script>
+<script>
+  var str = '12.33';
+
+  function filterLetter(str){
+    var re = /[^\d]/g;
+    // match如果没有匹配上返回null，匹配上返回匹配元素组成的数组
+    var item = str.match(re);
+    if(item){
+      var index = str.indexOf(item[0]);
+
+      if(index === 0){
+        return '无法进行转化'
+      }else{
+        str = str.slice(0,index);
+      }
+
+    }
+    return str;
+  }
+  console.log(filterLetter(str))  //12
+
+
+
+
+  // var item = '9' - '0';
+  // console.log( item);  // 9
+  // console.log( typeof item);  //number
+
+
+
+</script>
 </body>
 </html>

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>找出重复数组中只出现一次的数字</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0
+        }
+    </style>
+</head>
+<body>
+<script>
+  /*
+  * 找出数组中只出现一次的元素
+  * */
+  var arr = [1,1,1,2,2,2,2,3,3,3,3,4,4,4,4,5,6,6];
+
+  function find(arr){
+    var result = arr.filter((item,index) => {
+      return arr.indexOf(item) === arr.lastIndexOf(item)
+    })
+    return result[0]
+  }
+
+
+  console.log( find(arr) );
+
+</script>
+</body>
+</html>

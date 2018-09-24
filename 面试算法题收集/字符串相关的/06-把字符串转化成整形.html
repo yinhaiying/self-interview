@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>将字符串转换成整形</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0
+        }
+    </style>
+</head>
+<body>
+<script>
+  // public static int ConvertToInt(string num)
+  // {
+  //   char[] ch = num.ToCharArray();
+  //   int i = 0, value = 0;
+  //   while (i < ch.Length)
+  //   {
+  //     if (ch[i] == ' ') { i++; continue; }
+  //     if (ch[i] < '0' || ch[i] > '9') throw new Exception("None number");
+  //     value = value * 10 + (ch[i] - '0');
+  //     i++;
+  //   }
+  //
+  //   return value;
+  // }
+
+
+  function toNum(str){
+    //筛选出非数字的字符
+    str = filterLetter(str);
+    let arr = str.split('');
+    let i = 0;
+    let value = 0;
+    let item ;
+    while(i < arr.length){
+      item = arr[i] - '0';
+      //进制相加
+      value = value *10 + item;
+      i++;
+    }
+
+    return value;
+  }
+
+  function filterLetter(str){
+    var re = /[^\d]/g;
+    // match如果没有匹配上返回null，匹配上返回匹配元素组成的数组
+    var item = str.match(re);
+    if(item){
+      var index = str.indexOf(item[0]);
+
+      if(index === 0){
+        return '无法进行转化'
+      }else{
+        str = str.slice(0,index);
+      }
+
+    }
+    return str;
+  }
+  let str = '123';
+  let str2 = '123.45';
+  let str3 = '456ab_';
+  console.log(toNum(str))  //123
+  console.log(toNum(str2)) //123
+  console.log(toNum(str3)) //456
+</script>
+</body>
+</html>
